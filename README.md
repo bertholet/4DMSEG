@@ -2,7 +2,7 @@
 
 [Project Page](http://www.cgg.unibe.ch/publications/rgb-d-motion-segmentation/project-page)
 
-In this repository we <will> share the data and code for the paper "Temporally Consistent Motion Segmentation from RGB-D Video" to be published in CGF. We are cleaning up and unifying code, scipts and data. If you wish to get access to data or code in the meantime, contact bertholet (at) inf (dot) unibe (dot) ch.
+In this repository we <will> share the data and code for the paper "Temporally Consistent Motion Segmentation from RGB-D Video" to be published in CGF. We are cleaning up and unifying code, scipts and data. If you wish to get access to data or code in the meantime, contact peter (bottomline) bertholet (at) hotmail (dot) com or try your luck with the messy repository that can be found at https://bitbucket.org/pe5che770/4dmseg/src/master/ and the evaluation files at https://bitbucket.org/pe5che770/moseg_evaluation/src/master/
 
 The repository is structured as follows:
 #### Data: 
